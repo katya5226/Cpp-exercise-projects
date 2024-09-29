@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2005: "class std::vector<class Node *,class std::allocator<class Node *> > nodes" (?nodes@@3V?$vector@PAVNode@@V?$allocator@PAVNode@@@std@@@std@@A) already defined in dijkstra_algorithm.obj
+main.obj : error LNK2005: "class std::vector<class Edge *,class std::allocator<class Edge *> > edges" (?edges@@3V?$vector@PAVEdge@@V?$allocator@PAVEdge@@@std@@@std@@A) already defined in dijkstra_algorithm.obj
+C:\Users\katja\source\repos\DijkstraAlgorithm\Debug\DijkstraAlgorithm.exe : fatal error LNK1169: one or more multiply defined symbols found
