@@ -1,0 +1,10 @@
+VIKING PRESS
+
+Name	First name	Completed	Weight	Distance	Time	Reps
+G	g
+D	d
+C	c
+E	e
+A	a
+B	b
+F	f

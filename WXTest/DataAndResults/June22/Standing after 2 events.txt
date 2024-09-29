@@ -1,0 +1,8 @@
+Name		First name		TRUCK PULL pts		DEADLIFT pts		All pts
+A		a		7.00		5.00		12.00
+F		f		4.00		7.00		11.00
+B		b		5.00		6.00		11.00
+C		c		6.00		3.00		9.00
+E		e		1.00		4.00		5.00
+D		d		2.00		2.00		4.00
+G		g		3.00		1.00		4.00

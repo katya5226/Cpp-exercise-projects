@@ -1,0 +1,10 @@
+DEADLIFT
+
+Name	First name	Completed	Weight	Distance	Time	Reps
+E	e
+D	d
+G	g
+F	f
+B	b
+C	c
+A	a

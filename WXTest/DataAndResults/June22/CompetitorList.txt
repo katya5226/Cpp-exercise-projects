@@ -1,0 +1,7 @@
+A	a	SLO
+B	b	SLO
+C	c	GER
+D	d	SLO
+E	e	GB
+F	f	SLO
+G	g	SLO
